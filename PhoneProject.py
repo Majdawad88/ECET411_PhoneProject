@@ -1,3 +1,6 @@
+
+# git clone https://github.com/Majdawad88/ECET411_PhoneProject.git
+
 # TKinter for GUI (Simple Calculator)
 from tkinter import *
 import time
